@@ -1,4 +1,4 @@
-# Online editor task with React + Vite
+# Online editor task with React + ChakraUI + Vite
 
 Run app:
 - npm i
